@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your user name>
+   # <DhavalRanpura>
 
    # Input:
    # p, principal amount
